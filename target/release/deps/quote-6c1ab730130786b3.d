@@ -1,0 +1,13 @@
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/quote-6c1ab730130786b3.rmeta: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ext.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/format.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ident_fragment.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/to_tokens.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/runtime.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/spanned.rs
+
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/libquote-6c1ab730130786b3.rlib: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ext.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/format.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ident_fragment.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/to_tokens.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/runtime.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/spanned.rs
+
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/quote-6c1ab730130786b3.d: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ext.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/format.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ident_fragment.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/to_tokens.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/runtime.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/spanned.rs
+
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/lib.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ext.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/format.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/ident_fragment.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/to_tokens.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/runtime.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.20/src/spanned.rs:

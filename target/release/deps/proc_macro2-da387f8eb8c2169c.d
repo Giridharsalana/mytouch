@@ -1,0 +1,12 @@
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/proc_macro2-da387f8eb8c2169c.rmeta: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/libproc_macro2-da387f8eb8c2169c.rlib: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/giri/Code_Lab/Rust/mytouch/target/release/deps/proc_macro2-da387f8eb8c2169c.d: /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs:
+/home/giri/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs:
